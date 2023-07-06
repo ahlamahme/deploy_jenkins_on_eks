@@ -13,4 +13,5 @@
 
 Use this link (https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/) <br> 
 
-![alt text](/home/ahlam/deploy_jenkins_on_eks/k8s/img/Screenshot from 2023-07-06 16-55-36.png) 
+![My Image](img/output.png)
+ 
